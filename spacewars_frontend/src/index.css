@@ -25,6 +25,7 @@
           }
 }
 
-.spaceship-overlay{
-  background: url('../img/Ship_Main_Icon.png');
+.spaceship{
+  height: 7%;
+  width: 7%;
 }
