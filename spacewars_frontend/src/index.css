@@ -25,4 +25,6 @@
           }
 }
 
-
+.spaceship-overlay{
+  background: url('../img/Ship_Main_Icon.png');
+}
