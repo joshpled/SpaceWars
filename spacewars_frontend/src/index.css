@@ -21,7 +21,7 @@
           }
         /*use negative width if you want it to flow right to left else and positive for left to right*/
           to {
-            background-position: 50% 10000px;
+            background-position: 50% 20000px;
           }
 }
 
