@@ -1,31 +1,31 @@
-.space-background{
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background: url('../img/BG.png');
-    background-repeat: repeat-y;
-    /* background-position: 0 0; */
-    background-size: auto 100%;
-  /*adjust s value for speed*/
-    animation: space 500s linear infinite;
-    margin: auto;
+/* .space-background {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: url("../img/BG.png");
+  background-repeat: repeat-y;
+  background-size: auto 100%;
+  animation: space 500s linear infinite;
+  margin: auto;
 }
 
-@keyframes space{
-        from {
-            background-position: 50% 0;
-          }
-        /*use negative width if you want it to flow right to left else and positive for left to right*/
-          to {
-            background-position: 50% 20000px;
-          }
-}
+@keyframes space {
+  from {
+    background-position: 50% 0;
+  }
+  to {
+    background-position: 50% 20000px;
+  }
+} */
 
-.spaceship{
+.spaceship {
   height: 7%;
   width: 7%;
+  cursor: pointer;
 }
+
+
